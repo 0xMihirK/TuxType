@@ -1,0 +1,26 @@
+[project]
+name = "tuxtype"
+version = "1.0.0"
+description = "Terminal Typing Test Application"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "textual>=0.50.0",
+    "rich>=13.7.0",
+    "toml>=0.10.2",
+    "click>=8.1.0",
+]
+
+[project.scripts]
+tuxtype = "src.main:main"
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
+
+[tool.setuptools.package-data]
+src = ["py.typed"]

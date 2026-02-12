@@ -1,0 +1,107 @@
+[
+  {
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "source": "Stanford Commencement Speech",
+    "category": "inspirational",
+    "length": 53
+  },
+  {
+    "text": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "source": null,
+    "category": "inspirational",
+    "length": 57
+  },
+  {
+    "text": "Code is like humor. When you have to explain it, it's bad.",
+    "author": "Cory House",
+    "source": null,
+    "category": "programming",
+    "length": 58
+  },
+  {
+    "text": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson",
+    "source": null,
+    "category": "programming",
+    "length": 47
+  },
+  {
+    "text": "Experience is the name everyone gives to their mistakes.",
+    "author": "Oscar Wilde",
+    "source": null,
+    "category": "inspirational",
+    "length": 56
+  },
+  {
+    "text": "The best error message is the one that never shows up.",
+    "author": "Thomas Fuchs",
+    "source": null,
+    "category": "programming",
+    "length": 54
+  },
+  {
+    "text": "Simplicity is the soul of efficiency.",
+    "author": "Austin Freeman",
+    "source": null,
+    "category": "programming",
+    "length": 37
+  },
+  {
+    "text": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck",
+    "source": null,
+    "category": "programming",
+    "length": 42
+  },
+  {
+    "text": "The function of good software is to make the complex appear to be simple.",
+    "author": "Grady Booch",
+    "source": null,
+    "category": "programming",
+    "length": 73
+  },
+  {
+    "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler",
+    "source": "Refactoring",
+    "category": "programming",
+    "length": 111
+  },
+  {
+    "text": "The quick brown fox jumps over the lazy dog.",
+    "author": null,
+    "source": "Pangram",
+    "category": "practice",
+    "length": 44
+  },
+  {
+    "text": "Pack my box with five dozen liquor jugs.",
+    "author": null,
+    "source": "Pangram",
+    "category": "practice",
+    "length": 40
+  },
+  {
+    "text": "How vexingly quick daft zebras jump!",
+    "author": null,
+    "source": "Pangram",
+    "category": "practice",
+    "length": 36
+  },
+  {
+    "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "source": null,
+    "category": "inspirational",
+    "length": 86
+  },
+  {
+    "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "source": null,
+    "category": "inspirational",
+    "length": 74
+  }
+]

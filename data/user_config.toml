@@ -1,0 +1,31 @@
+[test]
+default_mode = "words"
+default_word_count = 50
+default_time = 60
+default_language = "english"
+difficulty = "normal"
+punctuation = true
+numbers = true
+quick_restart = true
+
+[display]
+theme = "dark"
+show_live_wpm = true
+show_live_accuracy = true
+show_live_burst = false
+caret_style = "block"
+colorblind_mode = false
+
+[behavior]
+quick_end = false
+stop_on_error = false
+confidence_mode = 0
+lazy_mode = false
+sound_on_error = false
+sound_on_complete = false
+
+[stats]
+show_consistency = true
+show_graph = true
+graph_style = "line"
+always_show_decimal = false
