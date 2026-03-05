@@ -19,7 +19,7 @@
 ## 📖 Description
 
 > [!CAUTION]
-> **Vibe Code Alert**: This project is 95% vibe coded and was built overnight as a fun side-project. It's fun and easy to test your typing skill anytime in your terminal.
+> **Vibe Code Alert**: This project is 95% vibe coded and was built overnight as a fun side-project. 
 
 
 **TuxType** is a modern, feature-rich terminal typing test application built for developers and keyboard enthusiasts who prefer the command line. Inspired by the aesthetics and functionality of [Monkeytype](https://monkeytype.com), it brings a premium typing experience directly to your terminal.
